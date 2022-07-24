@@ -1,0 +1,98 @@
+THE RULES OF THE BAD LANDS
+=======================================================================================
+TITLE 1 - META
+
+1) The Golden Rule - He with the Gold makes the Rules.
+
+2) All rules shall be administered in the least restrictive way possible. This means you may be griefed, frozen humiliated, or escalated against in lieu of a ban.
+
+3) All matters may be discussed in Badlands discord
+https://discord.gg/97uXrw
+
+4) Deviation from the principles laid out in the Meta is grounds for reversal of Badmin decisions.
+
+5) DEFINITIONS:
+
+    i) Infantry units are defined as avatars engaged in combat that are not in a vehicle.
+    ii) Weapons are defined as attachments that are used to neutralize other avatars.
+    iii) Movement enhancers are defined as attachments which allow Infantry units to move beyond the usual ability of the SL movement system
+    iv) Vehicles are defined as objects which avatars may sit on to convey them from place to place, and achieves such conveyance without needing the avatar to stand or become unseated.
+    v) Deployables are defined as armored, non-attached objects that avatars rez during combat, which are neither weapons nor vehicles.
+    vi) "Air" used herein refers to vehicles or infantry that fly in the air. 
+    vii) Armor means a scripted system designed to give health pools to vehicles or deployables, resulting in its death upon depletion of health/armor.
+    viii) "Repair" means to add or restore lost health to an armor system.
+    ix) "RPM" means "Rounds Per Minute."
+    x) All other terms found herein shall be understood to hold and be interpreted by a common-sense meaning, and not subject to any specific definition as contained herein.
+
+
+TITLE 2 - NEIGHBORING REGIONS
+
+1) No rule of an adjoining region that is contrary to these rules shall be enforced on these lands, but may be enforced in that adjoining region, as if the behavior had been committed there. 
+
+2) In special circumstances, limited enforcement may commence in the Bad Lands for violations of the rules of a neighboring parcel. 
+
+
+TITLE 3 - PROHIBITED ACTIVITIES - HIGH KEY JUSTICE
+
+1) The following behaviors are prohibited and shall result in immediate punishment in the form of of an indefinite estate ban:
+    (a) Intentional destabilization of sims, neighboring regions, or the asset server;
+    (b) Intentional destabilization of graphics or sound hardware;
+    (c) Being a member of the Green Lantern Corps, Justice League, Blake Sea Coast Guard, or any 
+    other organization that regularly employs mass abuse reports;
+    (d) Falsifying or exaggerating reports to Badmins to abuse administration process;
+    (e) Intentional use of Keyframe-pushers or push based weapons to disrupt combat;
+    (f) Intentional use of enforcement devices or non-combat appropriate technology when not a Staff Member; 
+    (g) Intentionally filling the sim with objects or overwhelming script time;
+    (h) Roleplaying sex with minors; 
+    (i) Scamming or otherwise obtaining money from another by trickery, deception or fraud; 
+    (j) Use of any device intended to trigger epilepsy. 
+    (l) Alleging that Morrissey is good;
+
+2) The following behaviors are unconditionally prohibited and shall be subject to full administrative discretion under the principles laid out in 2-4:
+    (a) Use of non physical vehicles, chairs, or anything else that would make the user invulnerable;
+    (b) Use of autokilling devices or orbiters (an orbiter means a push based or cager based device which puts an avatar higher than 200m against its will;
+    (c) Use of anti-aircraft weaponry on infantry lower than jump height (this does not make shooting jetpackers or aerial infantry illegal;
+    (d) Disobeying Badmins; 
+    (e) Sithacking
+    (f) Safelanding
+    (g) Repeated violations of Title 4 hereunder.
+
+
+TITLE 4 - EQUIPMENT LIMITATIONS
+
+1) Generally Prohibited Combat Tactics
+    (a) Use of non-lba compatible armor or deployables;
+    (b) Use of inverse LBA that isn't a breach hole;
+    (c) Use of vehicles or deployables with the ability to repair themselves without assistance;
+    (d) Use of automated repair devices that can move on their own that have more than 2hp per second;
+    (e) Any repair devices, mobile, immobile, or man portable, that repair more than 5hp per second;
+    (f) Use of intercepting technology that does not lie dormant to recharge for less than .5 second per active interception period, if deployable does not require a manual reactivation.
+    (g) Use of sensor or agentlist weapons or munitions that do not raycast check
+    (h) Use of munitions that affect all or substantially all of the battlefield at once (such as simwide nukes)
+    (i) Use of raycast weapons that fire more than 10 unique shots per second (600 RPM). The use of multiple rays or checks for a single shot is fine (ie. Shotguns).
+    (j) Raycast weapons which exceed 120 RPM that do more than 45 damage per shot/pellet.
+    (k) Agentlist weapons which have a detection radius, at any point, greater than a cylinder of 0.05m, regardless of raycast checking.
+    (l) Use of automated seeking munitions that move faster than 20m/s on infantry who are not using a jetpack or similar means of aerial conveyance higher than 25m above the ground.
+
+
+2) Generally Prohibited Infantry Tactics
+(a) Movement enhancers may not violate the following parameters:
+        (i) Movement enhancers that move at avatar speed or slower may go in any direction and change directions as many times as the user so desires.  (swim tools or very slow jetpacks)
+        (ii) Movement enhancers that go faster than avatar speed are limited to one directional change per use if they operate above in air (most jetpacks and jump packs have a ground slam, also allows for limited midair dodge use)
+        (iii) Movement enhancers that go 32 meters or less in distance per use may have no speed cap (allows dodge rolls and jump packs to be pretty punchy)
+        (iv) Movement enhancers that go further than 32 meters per use may go no further than 75m in any direction, and no faster than 40m/s at any point during its use. (for long range jetpacks, or long distance grapples)
+        (v) Movement enhancers must have a stamina or fuel system if they grant faster movement than normal avatar speed on land or underwater, and a visible fuel system if they grant any air mobility whatsoever
+        (vi) Speed caused by the momentum of the physics engine shall not be factored into the calculation of movement enhancer unless it can be clearly demonstrated that use of the physics engine's momentum rules is intended by the user or designer of the movement enhancer. (Using parachute systems with gravity packs and jetpacks, or prims rezzed to prim jump)
+        (vii) Movement enhancers used in tandem will be treated as the same movement enhancer per use. If each use remains compliant with the above rules, tandem use will be permitted. Using two movement enhancers at the same time to achieve a result that would otherwise violate the above rules is not permitted. (A sprint hud may not be purposefully used to build  extra momentum for a long-range jetpack that already has maximum range, for instance, but a short range jump pack would probably be fine. A grapple hook may be used to quickly move while midair when using a jump pack as well, but a  long range jetpack's tandem options may only be limited to a short midair dodge or short grapple or wall climber.)
+(b) Use of anti infantry or anti air autoturrets with an effective range greater than its size in cubic meters multiplied by 18;
+(c) Use of any deployable with lethal ability that has more than 70 hp;
+(d) Use of any intercepting deployable with more than 100 hp;
+(e) Use of any deployable without the ability to kill an avatar that has more than 300 hp (like walls).
+
+
+3) Generally Prohibited Vehicle Tactics
+    (a) Use of vehicles that have more armor than 10hp times the size of its largest dimension, whatever that may be
+    (b) Use of armored vehicles that move faster than x m/s where x is 100/(largest dimension) of a vehicle's hitbox. [A 5m long gunship should not be moving any faster than 20m/s].
+    (c) All forms of throttling, excluding damage caps and DBA "Directional Based Armor",  used under any circumstances or reasoning. All vehicles are required to take the damage given to them in their full amount if it is from a valid source. If the event a damage cap is exceeded, ONLY the EXCEEDING AMOUNT is to be cut off from damage calculations.
+    (d) Damage Caps in armor restricting lba damage taken to less than 25% of a vehicle's total health or 50% of a deployable's health pool. 
+    (e) Use of area of effect munitions that do not raycast check, or are designed to be effective through cover, without any diminished capacity. This includes missiles that cannot be intercepted.
