@@ -1,0 +1,203 @@
+VERSION 1.0                                                                                             
+DATE 1/21/2020
+AUTHOR: Markus Khan Brimstone
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+                                 F A U S T     -     I N F E R N I U M
+                                 
+                                R U L E S  O F  E N G A G E M E N T
+                                                                                                                 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+██████████████████████████████████████████████
+
+Table of Contents
+
+Section 1: Introduction
+Section 2: General Rules
+Section 3: Infantry Rules
+Section 4: Vehicle Rules
+Section 5: Misc Rules
+Section 6: Banned Equipment
+Section 7: Hitscan weapons/agentlist
+Section 8: Escalation
+Section 9: Faust Infernium Tiers
+
+██████████████████████████████████████████████
+
+S E C T I O N 1: I N T R O D U C T I O N
+
+This notecard will go over rules in detail for the Faust Infernium sim, as well as our weapon tiers. There are not many rules that will result in a ban - this is a policy from older times that we are working to restore - but there are a few. They will be noted as such. While it would be preferred that no rule could do so, there are some that result in an unavoidable need for such a reaction - griefing severely enough to prevent removal via normal methods can result in this, for example. If you feel you have been unjustly banned, contact relevant high command within Faust in order to appeal. Few bans are not able to be appealed, but some may be enforced for a length of time.
+
+Our primary enforcement method is Escalation. Usually, this is reciprocal - you pull out a Tier 2 set, we'll employ our Tier 2. However, punitive Escalation exists for rulebreakers, so please be aware before you begin to flaunt rules.
+
+██████████████████████████████████████████████
+
+S E C T I O N 2: G E N E R A L  R U L E S
+
+1) Excessive intentional blackscreening is not allowed by either side. Given both sides are provided a safe zone, this should be theoretically impossible, but don't try for the sake of trying.
+
+2) Excessive flaming and general bad behavior can be met with escalation in response in order to get you out of the sim faster. This should rarely happen, but if you're being obnoxious, don't expect a warm welcome.
+
+3) Maximum Combat Height for non-fleet is 1000m. Fleet are not limited to any ceiling, but you are not to go out of your way to target platforms - R&D and training - that might be above that height also due to the expriences amde for the sim teleport routing is off and we have a zero tolerance for tping into our spawn with out asking the current oic or if your armedand will not be giving you aa warning after you reading this notecard. 
+
+4) Weapons designed to kill through physics/prims are not allowed, (e.g. Black Hole/Gravity grenades)
+
+5) Raycast weapons are allowed, however fully-automatic cannot kill in one shot. Semi-auto may do so, however.
+
+6) Autokillers are not allowed. Use of one can result in a ban.
+
+7) Please listen to the OIC at the time on-sim. If you are in violation of the rules and they warn you about it, and you continue to flaunt the rules, you will incur an escalation.
+
+8) Don't Forget the Human. We're here to have fun and shoot each other. If you're getting too invested into this and becoming angry, take a step back. If you feel a fight has turned nasty, contact the OIC and talk about ways to fix it. Both sides of a conflict should be having fun, and if one or both is not, something needs to be fixed.
+
+9) Keep 'adult' behavior off the sim. Don't come in with tits out and dick swinging, keep your avatar clothed.
+
+10) Excessive offensive behavior can result in punitive escalation - racism, sexism, homophobia, etc. You might not be banned, but do it at your own peril.
+
+██████████████████████████████████████████████
+
+S E C T I O N 3: I N F A N T R Y  R U L E S
+
+1) Flashbangs must be reasonable - you can blind someone, but don't include overtly loud noises as an addon, or rapidly flashing colors and the like. You don't *actually* need to flashbang the person behind the screen. Blinding effects may only last for 10 seconds.
+
+2) Infantry launched explosives may not exceed a 5 meter radius. Explosives without a raycast check are allowed, but if you begin killing people through props with it, it will result in a reciprocal escalation.
+
+3) Sensor grenades (explode in proximity to player) are not allowed.
+
+4) Automatic weapons that fire explosives should not exceed a radius of 2.5 meters, and may not have more than 1 rezzer. Equivalent RPM should be at or around 600RPM max.
+
+5) Seekers may only come in explosive form, and cannot be automatic. (rockets, missiles, etc. - Flak, however, is an exception) They may not target avatars - only use them against vehicles.
+
+6) Infantry weapons may not exceed a fire-rate of 2000 RPM.
+
+7) Ammunition per clip/magazine may not exceed 200 rounds, and reload times no less than 5 seconds for clips/magazines that exceed 100 rounds.
+
+8) Bullet sizes may not exceed 7 meters in length and 0.1 meters in width/height. For semi-automatic/bolt-action weapons this size is limited to 0.1 meters in length and 0.05 meters in width/height.
+
+9) Movement enhancers (dodgerolls, dash, slides) are allowed, but may not exceed a 5 meter dash and may only occur on a 5 second cooldown. Mid-air dashing is only allowed with melee weapons.
+
+10) Jump packs and Jet packs are not allowed - we do, however, allow (and provide) a double jump.
+
+11) Do not disable pre-jump
+
+12) AVflight is strictly prohibited. Use of AVflight will result in an orbital strike on the offending target.
+
+13) Going areas marked in red for either side is prohibited in combat (Spawn areas)
+
+14) do not sit or stand on the payload objectives it will result in immediate ejection  (this is the only warning attacking forces get )
+
+
+██████████████████████████████████████████████
+
+S E C T I O N 4: V E H I C L E  R U L E S
+
+1) You may have a maximum of 2 air vehicles, and 1 ground vehicle per side. This is in an effort to reduce lag.
+
+2) Full LBA is not permitted, however you may use LBA light.
+
+3) Ground armor may not exceed 200HP for tanks or mechs, and 100HP for armored infantry units.
+
+4) Aerial vehicles should have the following HP Vaules:
+    - Light Craft (Fighters): Unarmored, or up to 50HP
+    - Medium Craft (Gunships): Up to 200HP
+    - Heavy Craft (Fleet): Up to 500HP
+
+5) No absurdly excessive weaponry may be used in any vehicle - this is harder to quantify, so you will be informed if you need to tone things back. Much as we may enjoy the idea, Nuking It From Orbit with a fleetship is not allowed.
+
+6) Phantom vehicles of any kind are prohibited.
+
+7)use of vehicles on the payload objectives will result in immediate ejection from combat (this is the only warning attacking forces get )
+
+████████████████████
+██████████████████████████████████████████████
+
+S E C T I O N 5: M I S C.  R U L E S
+
+1) 'Zerg Rushing' (attacking without warning) is permitted, but it can cause an escalation if abused.
+
+2)  A group may attack once per day for 1 hour. We may put this down to 30 minutes if there is a high demand for defense from Faust. If this time limit is exceeded, Punitive Escalation may occur up to and including Tier 3.
+
+3) If you come to talk or negotiate, you may need to inform the OIC to avoid being shot.
+
+4) If it's not on this list somewhere, but an OIC asks you to stop doing it - stop. Failure to comply with OIC requests and directives can result in Punitive Escalation.
+
+5) do not breach stand ontop of Fausts base and allied outposts it will result in escaltion or banishment
+
+6) Non Compliance with an Oic or an admin will result in a temporary 1 hour  ban  if we have to ask you to do something more then once  and you still act like a entailed Twat you will be removed from the sim 
+██████████████████████████████████████████████
+
+S E C T I O N 6: B A N N E D  E Q U I P M E N T
+
+Below is a list of equipment that may not be used under any circumstances. Use of blacklisted equipment can result in Punitive Escalation up to and including Tier 3.
+-
+My Lai Magnum
+CPC Islamabad Attack Camel
+Chaos Chaff Grenades
+The 'Rip Jet'
+Reflector shields/barriers/etc.
+Cagers
+Excessive AoE (excess of 15m even with Fleet)
+Coercion tech
+veltech products
+██████████████████████████████████████████████
+
+S E C T I O N 7: H I T S C A N  W E A P O N S / A G E N T L I S T
+
+Hitscan and Agentlist weapons are allowed, but considered Tier 3 under any circumstance. Use will result in maximum escalation immediately without warning. We have our own, and will use them in response.
+
+██████████████████████████████████████████████
+
+S E C T I O N 8: E S C A L A T I O N
+
+Escalation should, under normal conditions, never exceed tier 1. Normal combat should not go past our Tier 1 weapon list, however punitive or reciprocal Escalation will occur in order to match attackers. Punitive escalation will be handled by an OIC. If you wish to DE-escalate, please contact the OIC and request such.
+
+██████████████████████████████████████████████
+
+S E C T I O N 9: F A U S T  I N F E R N I U M  T I E R S
+
+Our weapon tiers are as follows, please note that if it's not on this list, it may have been overlooked. Contact an OIC to determine what tier it should be in battle, and send a line to the writer (Asriel Dreemurr (niko.koray)
+
+Tier 1: This should be rarely escalated past, but reciprocal or punitive escalations may push past. This is how all combat will start, barring exceptions by OICs.
+
+    - Auto-gun
+    - Powersword (Strange and Offhand)
+    - Basic grenade
+    - Broadsword
+    - Akkadic Auto-Rifle (only normal rounds, chain-bayonet)
+    - Autopistol
+
+Tier 2: Heavy response. This should be the maximum tier ordered by anyone beneath Baron barring reciprocal escalations. This weaponry is significant and powerful, and should be used sparingly.
+
+    - Heavy Stubber
+    - Caster offhand
+    - Caster melee
+    -Caster tomes
+    - Arm Bolter
+    - Laspistol
+    - Lucius Pattern Lasgun
+    - Akkadic-Pattern Blunderbus
+    - Lucious Pattern Shotgun
+    - Akkadic Pattern Bolt Rifle MK IX[std]
+    - Accatran MkII Launcher
+    - Plasma Pistol
+    - Akkadic Auto-Rifle (Grenade Launcher normal grenades)
+    - Boomstick
+    -RoC Greatsword
+Tier 3: These weapons are never to be used without a damned good reason. If this weaponry has been drawn, something wrong has happened. Someone has escalated to this point, or have broken rules enough to result in a punitive escalation to this level. It shouldn't happen often AT ALL.
+
+    - AE Rotary Gun
+    - Akkadic Pattern Combat Shotgun
+    - Brimstone Cannon
+    - Caster magic
+    - Akkadic Hellgun-burst
+    - Plasma Cannon z-6
+    - Akkadic Auto-Rifle (Nonstandard bullets, nonstandard grenade)
+    -RoF Frostbite mace
+    -RoW torment blade
+Tier 4: You've gone and done something just shy of being banned. AVflight, offensive imagery, running around with your tits out or dick swinging - this is a Baron+ level punishment and the only 'normal' circumstance this should ever be used is when fighting has truly become no-holds-barred.
+
+    - Revelation Airstrike HUD (Ion Cannon.)
+    - The Scythe
+    - Akkadic Stalker Bolter (Except in cases of reciprocal use against agentlist weapons.)
