@@ -70,9 +70,10 @@ TITLE 4 - EQUIPMENT LIMITATIONS
     (g) Use of sensor or agentlist weapons or munitions that do not raycast check
     (h) Use of munitions that affect all or substantially all of the battlefield at once (such as simwide nukes)
     (i) Use of raycast weapons that fire more than 10 unique shots per second (600 RPM). The use of multiple rays or checks for a single shot is fine (ie. Shotguns).
-    (j) Raycast weapons which exceed 120 RPM that do more than 45 damage per shot/pellet.
-    (k) Agentlist weapons which have a detection radius, at any point, greater than a cylinder of 0.05m, regardless of raycast checking.
+    (j) Use of raycast weapons which exceed 120 RPM that do more than 45 damage per shot/pellet.
+    (k) Use of semi-automatic agentlist weapons which have a detection radius, at any point, greater than a cylinder of 1.25m, regardless of raycast checking, or fully automatic agentlist weapons with a detection cylinder of 0.05m.
     (l) Use of automated seeking munitions that move faster than 20m/s on infantry who are not using a jetpack or similar means of aerial conveyance higher than 25m above the ground.
+    (m) Fully automatic "widecast" weapons, which are weapons which use a sensor cone filtered by a raycast check.
 
 
 2) Generally Prohibited Infantry Tactics
